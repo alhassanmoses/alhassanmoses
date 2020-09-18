@@ -46,8 +46,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//odurusphp/testingazubigit/pull/7) in [odurusphp/testingazubigit](https://github.com//odurusphp/testingazubigit)
-2. 💪 Opened PR [#7](https://github.com//odurusphp/testingazubigit/pull/7) in [odurusphp/testingazubigit](https://github.com//odurusphp/testingazubigit)
+1. 💪 Opened PR [#1](https://github.com//pokaj/azubi-capstone/pull/1) in [pokaj/azubi-capstone](https://github.com//pokaj/azubi-capstone)
+2. 🎉 Merged PR [#7](https://github.com//odurusphp/testingazubigit/pull/7) in [odurusphp/testingazubigit](https://github.com//odurusphp/testingazubigit)
 <!--END_SECTION:activity-->
 
 </details>
