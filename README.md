@@ -46,8 +46,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//pokaj/azubi-capstone/pull/2) in [pokaj/azubi-capstone](https://github.com//pokaj/azubi-capstone)
-2. 💪 Opened PR [#2](https://github.com//pokaj/azubi-capstone/pull/2) in [pokaj/azubi-capstone](https://github.com//pokaj/azubi-capstone)
+1. 🎉 Merged PR [#2](https://github.com/pokaj/azubi-capstone/pull/2) in [pokaj/azubi-capstone](https://github.com/pokaj/azubi-capstone)
+2. 💪 Opened PR [#2](https://github.com/pokaj/azubi-capstone/pull/2) in [pokaj/azubi-capstone](https://github.com/pokaj/azubi-capstone)
 <!--END_SECTION:activity-->
 
 </details>
