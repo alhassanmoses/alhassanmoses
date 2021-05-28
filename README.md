@@ -4,7 +4,7 @@
 
 ## I'm a Son, Brother, Otaku and Developer!
 
-- 🔭 I’m currently working as a trainee at [AzubiAfrica][website]!
+- 🔭 I’m currently working as a Junior Software Engineer at [GetINNOtized GmbH][website]!
 - 🌱 I’m currently studying python for web dev and everything I can learn on space exploration🤣
 - 👯 I’m looking to collaborate with other developers on any project within my skillset
 - 🥅 2020 Goals: Build more helpful projects and study more amazing design patterns
@@ -63,4 +63,4 @@
 [instagram]: https://instagram.com/alhassanmoses
 [linkedin]: linkedin.com/in/moses-wuniche-alhassan-4ab87412b
 [facebook]: https://facebook.com/alhassanmoses
-[website]: https://azubiafrica.org
+[website]: https://www.getinnotized.com/
