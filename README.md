@@ -61,6 +61,6 @@
 
 [twitter]: https://twitter.com/alhassanmoses
 [instagram]: https://instagram.com/alhassanmoses
-[linkedin]: linkedin.com/in/moses-wuniche-alhassan-4ab87412b
+[linkedin]: https://www.linkedin.com/in/moses-wuniche-alhassan-4ab87412b/
 [facebook]: https://facebook.com/alhassanmoses
 [website]: https://www.getinnotized.com/
