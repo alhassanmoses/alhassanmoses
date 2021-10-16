@@ -1,4 +1,4 @@
-### Hello, I'm Moses Wuniche - aka [TechnicalMisthios]👋
+### Hello, I'm Moses Wuniche - aka [TechnicalMisthios (Misty, for short😉)]👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alhassanmoses?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falhassanmoses&screen_name=alhassanmoses)
 
