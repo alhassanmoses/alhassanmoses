@@ -42,12 +42,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="TechnicalMisthios's Github Stats" src="https://github-readme-stats.alhassanmoses.vercel.app/api?username=alhassanmoses&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/alhassanmoses
 [instagram]: https://instagram.com/alhassanmoses
