@@ -43,16 +43,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/pokaj/azubi-capstone/pull/2) in [pokaj/azubi-capstone](https://github.com/pokaj/azubi-capstone)
-2. 💪 Opened PR [#2](https://github.com/pokaj/azubi-capstone/pull/2) in [pokaj/azubi-capstone](https://github.com/pokaj/azubi-capstone)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="TechnicalMisthios's Github Stats" src="https://github-readme-stats.alhassanmoses.vercel.app/api?username=alhassanmoses&show_icons=true&hide_border=true" />
