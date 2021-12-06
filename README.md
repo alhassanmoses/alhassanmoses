@@ -5,10 +5,10 @@
 ## I'm a Son, Brother, Otaku and Developer!
 
 - 🔭 I’m currently working as a Junior Software Engineer at [Turtabl Ghana Limited][website]!
-- 🌱 I’m currently studying python for web dev and everything I can learn on space exploration🤣
+- 🌱 I’m currently studying python and Java for web dev and everything I can learn on space exploration🤣
 - 👯 I’m looking to collaborate with other developers on any project within my skillset
-- 🥅 2021 Goals: Build more helpful projects and study more amazing design patterns
-- ⚡ Fun fact: I love manga/manhua/manhwa, novels and like to play online Games(Guild Wars 2 and Warframe)
+- 🥅 2022 Goals: Build or contribute to more helpful projects and study more amazing design patterns
+- ⚡ Fun fact: I love manga/manhua/manhwa, novels and like to play online Games(Guild Wars 2)
 
 ### Connect with me:
 
