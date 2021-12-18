@@ -1,14 +1,14 @@
-### Hello, I'm Moses Wuniche - aka [TechnicalMisthios (Misty, for short😉)]👋
+### Hello, I'm Moses Wuniche A. - aka [TechnicalMisthios (Misty, for short😉)]👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/moseswuniche?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmoseswuniche&screen_name=moseswuniche)
 
-## I'm a Son, Brother, hobby farmer, Otaku and Software Engineer!
+## I'm a grateful Son, a loving Brother, hobby farmer, Otaku and passionate Software Engineer!
 
 - 🔭 I’m currently working as a Software Engineer at [Turtabl Ghana Limited][website]!
-- 🌱 I’m continuously studying python and Java for web dev and everything I can learn on space exploration🤣
+- 🌱 I’m continuously studying python and Java for web dev and learning everything I can on space exploration🤣
 - 👯 I’m looking to collaborate with other developers on fun/impactful project within my skillset
-- 🥅 2022 Goals: Build or contribute to more helpful projects and study more amazing design patterns
-- ⚡ Fun fact: I love manhua/manhwa, novels and like to play online Games(Guild Wars 2)
+- 🥅 2022 Goals: Build && || contribute to helpful projects and study more amazing design patterns and DSA
+- ⚡ Fun fact: I love manhua/manhwa, novels and I'm a big shot(with a grain of salt🤣) in Guild Wars 2 😎
 
 ### Connect with me:
 
