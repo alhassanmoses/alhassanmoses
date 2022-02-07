@@ -4,7 +4,7 @@
 
 ## I'm a grateful Son, a loving Brother, hobby farmer, Otaku and passionate Software Engineer!
 
-- 🔭 I’m currently working as a Software Engineer at [Turtabl Ghana Limited][website]!
+- 🔭 I’m currently working as a Backend Software Developer at [Formplus][company]!
 - 🌱 I’m continuously studying python and Java for web dev and learning everything I can on space exploration🤣
 - 👯 I’m looking to collaborate with other developers on fun/impactful project within my skillset
 - 🥅 2022 Goals: Build && || contribute to helpful projects and study more amazing design patterns and DSA
@@ -48,4 +48,4 @@
 [instagram]: https://instagram.com/alhassanmoses
 [linkedin]: https://www.linkedin.com/in/moses-wuniche-alhassan-4ab87412b/
 [facebook]: https://facebook.com/alhassanmoses
-[website]: https://turntabl.io/
+[company]: https://www.formpl.us/
