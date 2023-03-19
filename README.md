@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Backend Software Developer at [Formplus][company]!
 - 🌱 I’m continuously studying python and Java for web dev and learning everything I can on space exploration🤣
-- 👯 I’m looking to collaborate with other developers on fun/impactful project within my skillset
+- 👯 I’m looking to collaborate with other developers on fun/impactful projects within my skillset
 - 🥅 2023 Goals: Build && || contribute to helpful projects and study interesting algorithms
 - ⚡ Fun fact: I love manhua/manhwa, novels and I'm a big shot(with a grain of salt🤣) in Guild Wars 2 😎
 
