@@ -4,10 +4,10 @@
 
 ## I'm a grateful Son, a loving Brother, hobby farmer, Otaku and passionate Software Engineer!
 
-- 🔭 I’m currently working as a Backend Software Developer at [Formplus][company]!
+- 🔭 I’m currently working as a Backend Software Developer at [FIDO][company]!
 - 🌱 I’m continuously studying python and Java for web dev and learning everything I can on space exploration🤣
 - 👯 I’m looking to collaborate with other developers on fun/impactful projects within my skillset
-- 🥅 2023 Goals: Build && || contribute to helpful projects and study interesting algorithms
+- 🥅 2024 Goals: Build && || contribute to helpful projects and study interesting algorithms
 - ⚡ Fun fact: I love manhua/manhwa, novels and I'm a big shot(with a grain of salt🤣) in Guild Wars 2 😎
 
 ### Connect with me:
@@ -22,6 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="FastAPI" width="32px" src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" />
 <img align="left" alt="Django-rest-framework" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Spring" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -46,6 +47,6 @@
 
 [twitter]: https://twitter.com/moseswuniche
 [instagram]: https://instagram.com/alhassanmoses
-[linkedin]: https://www.linkedin.com/in/moses-wuniche-alhassan-4ab87412b/
+[linkedin]: https://www.linkedin.com/in/moses-alhassan-4ab87412b/
 [facebook]: https://facebook.com/alhassanmoses
-[company]: https://www.formpl.us/
+[company]: https://gh.fido.money/about-us
